@@ -1,0 +1,196 @@
+{
+    "determinacion_fecha_hora_sustentacion": {
+      "patrones": [
+          "Determinación de fecha y hora de lugar para sustentación de tesis.",
+          "¿Cómo se establece la fecha y hora de la sustentación de tesis?"
+      ],
+      "respuestas": [
+          "La determinación de la fecha, hora y lugar para la sustentación de tesis involucra:",
+          "- Coordinación con los profesores dictaminantes para establecer la disponibilidad.",
+          "- Comunicación con el estudiante para definir su disponibilidad.",
+          "- Selección de una sala adecuada para la sustentación.",
+          "- Establecimiento de una fecha y hora que se ajusten a las agendas de todos los involucrados.",
+          "- Comunicación oficial de la fecha y hora establecidas al estudiante."
+      ]
+    },
+    "rotulado_diploma_titulo": {
+        "patrones": [
+            "Rotulado de diploma de título.",
+            "¿Cuáles son los pasos para rotular el diploma de título?"
+        ],
+        "respuestas": [
+            "El procedimiento para el rotulado del diploma de título involucra:",
+            "- Presentación del recibo de pago correspondiente.",
+            "- Obtención de la constancia del repositorio.",
+            "- Presentación del acta de sustentación."
+        ]
+    },
+    "constancia_buena_conducta": {
+        "patrones": [
+            "Constancia de buena conducta.",
+            "¿Qué se requiere para obtener una constancia de buena conducta?"
+        ],
+        "respuestas": [
+            "Para solicitar una constancia de buena conducta, necesitas:",
+            "- Presentar el recibo de pago correspondiente.",
+            "- Proporcionar la ficha de seguimiento actual.",
+            "- Mostrar la constancia de matrícula vigente."
+        ]
+    },
+    "constancia_estudios": {
+        "patrones": [
+            "Constancia de estudios.",
+            "¿Cómo puedo obtener una constancia de estudios?"
+        ],
+        "respuestas": [
+            "Para obtener una constancia de estudios, es necesario:",
+            "- Presentar el recibo de pago correspondiente.",
+            "- Proporcionar la ficha de seguimiento actual.",
+            "- Mostrar la constancia de matrícula vigente."
+        ]
+    },
+    "constancia_tercio_quinto_decimo": {
+        "patrones": [
+            "Constancia de tercio, quinto y décimo superior.",
+            "¿Cuáles son los requisitos para solicitar una constancia de tercio, quinto o décimo superior?"
+        ],
+        "respuestas": [
+            "La solicitud de una constancia de tercio, quinto o décimo superior necesita:",
+            "- Presentar el recibo de pago por concepto.",
+            "- Llenar y presentar la solicitud correspondiente."
+        ]
+    },
+    "practicas_preprofesionales": {
+        "patrones": [
+            "Prácticas Preprofesionales.",
+            "¿Cómo puedo realizar mis prácticas preprofesionales?"
+        ],
+        "respuestas": [
+            "Para realizar tus prácticas preprofesionales, debes:",
+            "- Redactar una solicitud dirigida al decano, mencionando detalles de la empresa o institución, dirección, RUC y destinatario de la carta de presentación.",
+            "- Nombrar a un asesor para tus prácticas. Una vez concluidas, solicita el reconocimiento de las prácticas preprofesionales."
+        ]
+    },
+    "solicitud_reconocimiento_practicas_preprofesionales": {
+        "patrones": [
+            "Solicitud de reconocimiento de Prácticas Preprofesionales.",
+            "¿Cuáles son los documentos necesarios para solicitar el reconocimiento de las prácticas preprofesionales?"
+        ],
+        "respuestas": [
+            "Para solicitar el reconocimiento de Prácticas Preprofesionales, debes:",
+            "- Proporcionar la ficha de seguimiento actual.",
+            "- Presentar el recibo de pago correspondiente.",
+            "- Entregar el informe final de las prácticas preprofesionales."
+        ]
+    },
+    "tramite_bachillerato": {
+        "patrones": [
+            "Trámite de Bachillerato.",
+            "¿Qué pasos debo seguir para tramitar mi bachillerato?"
+        ],
+        "respuestas": [
+            "El proceso de trámite de bachillerato involucra:",
+            "- Realizar el pago de los derechos correspondientes.",
+            "- Presentar el certificado de computación.",
+            "- Proporcionar el certificado de idiomas (recomendable).",
+            "- Mostrar la fotocopia de DNI en formato A4 y a color (fedatado).",
+            "- Presentar la ficha de seguimiento.",
+            "- Llenar y presentar la declaración jurada de haber o no homologado (fedatado).",
+            "- Entregar la declaración jurada de antecedentes penales.",
+            "- Proporcionar fotos escaneadas."
+        ]
+    },
+    "inscripcion_tesis": {
+        "patrones": [
+            "Inscripción de tesis.",
+            "¿Cómo puedo inscribir mi tesis?"
+        ],
+        "respuestas": [
+            "La inscripción de tesis requiere:",
+            "- Presentar la carta de aceptación del asesor dirigida al decano.",
+            "- Entregar el reporte del turniting.",
+            "- Mostrar la fotocopia del DNI.",
+            "- Proporcionar el plan de tesis.",
+            "- Realizar el pago correspondiente."
+        ] 
+    },
+    "apto_al_titulo": {
+        "patrones": [
+            "Apto al título.",
+            "¿Qué requisitos son necesarios para estar apto al título?"
+        ],
+        "respuestas": [
+            "Para estar apto al título, necesitas:",
+            "- Presentar el diploma de bachillerato (copia de ambas caras).",
+            "- Realizar el pago correspondiente.",
+            "- Entregar la copia del certificado de estudios universitarios.",
+            "- Proporcionar el certificado de idiomas extranjero.",
+            "- Mostrar la fotocopia del DNI.",
+            "- Presentar las declaraciones requeridas (Bachillerato).",
+            "- Proporcionar dos fotos escaneadas."
+        ]
+    },
+    "nombramiento_profesores_dictaminantes": {
+        "patrones": [
+            "Nombramiento de profesores dictaminantes.",
+            "¿Cuáles son los pasos para el nombramiento de profesores dictaminantes?"
+        ],
+        "respuestas": [
+            "El proceso de nombramiento de profesores dictaminantes incluye:",
+            "- Entregar la tesis.",
+            "- Realizar el pago correspondiente.",
+            "- Presentar el informe final del asesor.",
+            "- Proporcionar el turniting.",
+            "- Mostrar el DNI.",
+            "- Proporcionar la resolución de nombramiento de asesor.",
+            "- Proporcionar la resolución de aprobación de proyecto de tesis.",
+            "- Entregar la carta de aceptación del asesor.",
+            "- Proporcionar la resolución de apto al título."
+        ]
+    },
+    "dictamen_final_tesis": {
+        "patrones": [
+            "Dictamen final de tesis.",
+            "¿Qué se requiere para obtener el dictamen final de tesis?"
+        ],
+        "respuestas": [
+            "El proceso para obtener el dictamen final de tesis implica:",
+            "- Presentar el informe de dictaminantes.",
+            "- Realizar el pago correspondiente.",
+            "- Entregar la tesis.",
+            "- Proporcionar la resolución de dictaminantes.",
+            "- Entregar la carta de aceptación del asesor.",
+            "- Proporcionar la resolución de nombramiento de asesor."
+        ]
+    },
+    "repositorio_tesis": {
+        "patrones": [
+            "Repositorio de tesis de la escuela",
+            "¿Qué tesis existen en el repositorio?"
+        ],
+        "respuestas": [
+            "- Implementación de un dataset para la evaluación de modelos de análisis de sentimientos en la clasificación de tweets",
+            "- Aplicación para el reconocimiento de texto y transformación de voz, y desarrollo de un prototipo de impresora braille orientado a personas con discapacidad visual",
+            "- Análisis comparativo de la performance de los descriptores Wavelet y Fourier, aplicado a la detección de anomalías en trayectorias",
+            "- Generación automática de letras de canciones usando redes neuronales recurrentes para el quechua",
+            "- Implementación de un sistema experto para el diagnóstico de las cardiopatías más comunes en adultos utilizando lógica difusa",
+            "- Aplicación de visión artificial en la estimación del peso corporal del cuy",
+            "- Implementación de la red de acceso a internet por fibra óptica para el desarrollo de las clases virtuales de la Institución Educativa Wiñaypaq de la comunidad campesina de Huandar del distrito de Pisac",
+            "- Evaluación de arquitecturas Deep Learning para identificar anomalías por deficiencia de macronutrientes en Persea Americana variedad Hass",
+            "- Implementación de técnicas de minería de texto para la clasificación de tickets de soporte en la oficina de Tecnologías de la Información de EGEMSA",
+            "- Identificación de establecimientos comerciales no registrados en mapas digitales",
+            "- Construcción de un extractor de características basado en modelos pre-entrenados de redes neuronales convolucionales, para la identificación de imágenes de pinturas coloniales de la ciudad del Cusco",
+            "- Prototipo de un sistema portátil para el tratamiento preventivo de ulceraciones por presión del pie diabético",
+            "- Evaluación de técnicas de Change detection utilizando imágenes satelitales Landsat 8 para identificar cambios en la superficie causados por la minería",
+            "- Algoritmo para el problema data streaming clustering para conjuntos amorfos y con outliers",
+            "- Construcción de un prototipo de sistema para clasificar enfermedades en las hojas de cafeto basado en visión computacional",
+            "- Diseño y evaluación de un modelo basado en una red de cápsulas de matrices con em routing utilizando una red convolucional densa",
+            "- Identificación de métodos de procesamiento digital de imágenes bacteriológicas microscópicas para el diagnóstico de tuberculosis",
+            "- Análisis masivo de datos en twitter para identificación de opinión",
+            "- Aplicación del método de agrupamiento lineal en inferencia de redes genéticas probabilísticas aplicado al Plasmodium Falciparum",
+            "- Chatbot generativo en el idioma español utilizando la arquitectura de red neuronal Transformer"
+        ]
+    }
+  }
+  
+  
